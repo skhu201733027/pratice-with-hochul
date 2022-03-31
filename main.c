@@ -12,6 +12,7 @@ int main()
     int y = 2;
     printf("%d + %d = %d\n", x, y, (x + y));
 
+// 1
     printf("%d - %d = %d\n", x, y, (x - y));
     return 0;
 }
