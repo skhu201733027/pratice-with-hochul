@@ -13,7 +13,5 @@ int main()
     printf("%d + %d = %d\n", x, y, (x + y));
 
     printf("%d - %d = %d\n", x, y, (x - y));
-
-    printf("결과는 ~ 입니다.");
     return 0;
 }
